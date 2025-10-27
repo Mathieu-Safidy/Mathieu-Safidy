@@ -1,29 +1,29 @@
-<h1 align="center">👋 Salut, je suis <span style="color:#42b883;">Mathieu Safidy</span> !</h1>
-<h3 align="center">💻 Développeur Full Stack passionné — Madagascar 🇲🇬</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#42b883;">Mathieu Safidy</span>!</h1>
+<h3 align="center">💻 Passionate Full Stack Developer — Madagascar 🇲🇬</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mathieu-Safidy&label=Visites%20du%20profil&color=0e75b6&style=flat" alt="Compteur de vues" />
+  <img src="https://komarev.com/ghpvc/?username=Mathieu-Safidy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🧑‍💻 À propos de moi
+### 🧑‍💻 About Me
 
-🚀 Développeur Full Stack passionné, j’aime transformer des idées en solutions **performantes et intuitives**.  
-Curieux et en constante évolution, j’explore les dernières technologies pour construire des projets modernes et scalables.
+🚀 Passionate Full Stack Developer, I love turning ideas into **efficient and intuitive solutions**.  
+Curious and constantly evolving, I explore the latest technologies to build modern and scalable projects.
 
-- 🔭 Actuellement, je travaille sur des projets pour **Qualisoft**.  
-- 🌱 J’approfondis mes connaissances en **architecture logicielle**, **conteneurisation** et **sécurité applicative**.  
-- 💡 J’adore résoudre des problèmes complexes et automatiser les processus métiers.  
-- 📫 Contact : **[safidy800@gmail.com](mailto:safidy800@gmail.com)**  
+- 🔭 Currently working on projects for **Qualisoft**.  
+- 🌱 Deepening my knowledge in **software architecture**, **containerization**, and **application security**.  
+- 💡 I enjoy solving complex problems and automating business processes.  
+- 📫 Contact: **[safidy800@gmail.com](mailto:safidy800@gmail.com)**  
 
 ---
 
-### ⚙️ Langages & Outils
+### ⚙️ Languages & Tools
 
 <div align="center">
 
-#### 🧠 Stack Principale
+#### 🧠 Main Stack
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -50,7 +50,7 @@ Curieux et en constante évolution, j’explore les dernières technologies pour
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 </p>
 
-#### 🗄️ Bases de données
+#### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -58,7 +58,7 @@ Curieux et en constante évolution, j’explore les dernières technologies pour
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-#### 🧰 DevOps, Outils & Environnement
+#### 🧰 DevOps, Tools & Environment
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -69,19 +69,17 @@ Curieux et en constante évolution, j’explore les dernières technologies pour
 
 </div>
 
-
 ---
 
-### 🚀 Projets Récents
+### 🚀 Recent Projects
 
-| Projet | Description | Technologies |
+| Project | Description | Technologies |
 |:-------|:-------------|:-------------|
-| **Gestion Qualité - Qualisoft** | Application web de suivi et validation des processus qualité | Angular |
-| **API StockManager** | API REST sécurisée pour la gestion d’inventaire multi-entreprises | Node.js · Express |
+| **Quality Management - Qualisoft** | Web application to track and validate quality processes | Angular · Node.js · Express · PostgreSql |
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mathieu-Safidy&show_icons=true&theme=vue-dark&hide_border=true" height="160" />
@@ -90,7 +88,7 @@ Curieux et en constante évolution, j’explore les dernières technologies pour
 
 ---
 
-### 🌐 Me Contacter
+### 🌐 Contact Me
 
 <p align="center">
   <a href="mailto:safidy800@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -100,4 +98,4 @@ Curieux et en constante évolution, j’explore les dernières technologies pour
 
 ---
 
-⭐ *"Le code n’est pas seulement une suite d’instructions, c’est une façon de penser."*  
+⭐ *"Code is not just a set of instructions, it's a way of thinking."*
