@@ -12,10 +12,10 @@
 🚀 Passionate Full Stack Developer, I love turning ideas into **efficient and intuitive solutions**.  
 Curious and constantly evolving, I explore the latest technologies to build modern and scalable projects.
 
-- 🔭 Currently working on projects for **Qualisoft**.  
-- 🌱 Deepening my knowledge in **software architecture**, **containerization**, and **application security**.  
+- 🔭 Currently working on projects for **Personal project**.  
+- 🌱 Deepening my knowledge in **software architecture**, **containerization**.  
 - 💡 I enjoy solving complex problems and automating business processes.  
-- 📫 Contact: **[safidy800@gmail.com](mailto:safidy800@gmail.com)**  
+- 📫 Contact: **[mathieu.rakotoarisoa@hotmail.com](mailto:mathieu.rakotoarisoa@hotmail.com)**  
 
 ---
 
