@@ -91,7 +91,7 @@ Curious and constantly evolving, I explore the latest technologies to build mode
 ### 🌐 Contact Me
 
 <p align="center">
-  <a href="mailto:safidy800@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mathieu.rakotoarisoa@hotmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mathieu-safidy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Mathieu-Safidy" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
