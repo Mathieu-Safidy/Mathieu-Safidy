@@ -12,7 +12,7 @@
 🚀 Passionate Full Stack Developer, I love turning ideas into **efficient and intuitive solutions**.  
 Curious and constantly evolving, I explore the latest technologies to build modern and scalable projects.
 
-- 🔭 Currently working on projects for **Personal project**.  
+- 🔭 Currently working on personal projects.  
 - 🌱 Deepening my knowledge in **software architecture**, **containerization**.  
 - 💡 I enjoy solving complex problems and automating business processes.  
 - 📫 Contact: **[mathieu.rakotoarisoa@hotmail.com](mailto:mathieu.rakotoarisoa@hotmail.com)**  
