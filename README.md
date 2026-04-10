@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#42b883;">Mathieu Safidy</span>!</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#42b883;">Mathieu Rakotoarisoa</span>!</h1>
 <h3 align="center">💻 Passionate Full Stack Developer — Madagascar 🇲🇬</h3>
 
 <p align="center">
@@ -9,14 +9,15 @@
 
 ### 🧑‍💻 About Me
 
-🚀 Passionate Full Stack Developer, I love turning ideas into **efficient and intuitive solutions**.  
-Curious and constantly evolving, I explore the latest technologies to build modern and scalable projects.
+🚀 Passionate Full Stack & DevOps Developer, I love turning ideas into **efficient and intuitive solutions**.  
+Curious and constantly evolving, I explore the latest technologies to build modern, scalable, and well-architected applications.
 
-- 🔭 Currently working on personal projects.  
-- 🌱 Deepening my knowledge in **software architecture**, **containerization**.  
-- 💡 I enjoy solving complex problems and automating business processes.  
-- 📫 Contact: **[mathieu.rakotoarisoa@hotmail.com](mailto:mathieu.rakotoarisoa@hotmail.com)**  
-
+- 🔭 Currently working on a food delivery app  
+- 🌱 Deepening my knowledge in **software architecture**, **containerization**, and **DevOps practices**  
+- ⚙️ Interested in automation, CI/CD, and cloud infrastructure  
+- 💡 I enjoy solving complex problems and automating business processes  
+- 📫 Contact: **[mathieu.rakotoarisoa@hotmail.com](mailto:mathieu.rakotoarisoa@hotmail.com)**
+  
 ---
 
 ### ⚙️ Languages & Tools
@@ -76,6 +77,7 @@ Curious and constantly evolving, I explore the latest technologies to build mode
 | Project | Description | Technologies |
 |:-------|:-------------|:-------------|
 | **Quality Management - Qualisoft** | Web application to track and validate quality processes | Angular · Node.js · Express · PostgreSql |
+| **Delivery Food - Kaly-livrer** | Food delivery app for managing restaurants, menus, and online orders | Nest.js · React · React Native · PostgreSql|
 
 ---
 
