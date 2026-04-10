@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#42b883;">Mathieu Rakotoarisoa</span>!</h1>
-<h3 align="center">💻 Passionate Full Stack Developer — Madagascar 🇲🇬</h3>
+<h3 align="center">💻 Passionate Full Stack & DevOps Developer — Madagascar 🇲🇬</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mathieu-Safidy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
