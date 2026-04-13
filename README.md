@@ -13,7 +13,7 @@
 Curious and constantly evolving, I explore the latest technologies to build modern, scalable, and well-architected applications.
 
 - 🔭 Currently working on a food delivery app  
-- 🌱 Deepening my knowledge in **software architecture**, **containerization**, and **DevOps practices**  
+- 🌱 Deepening my knowledge in **software architecture**, **DevOps practices**  
 - ⚙️ Interested in automation, CI/CD, and cloud infrastructure  
 - 💡 I enjoy solving complex problems and automating business processes  
 - 📫 Contact: **[mathieu.rakotoarisoa@hotmail.com](mailto:mathieu.rakotoarisoa@hotmail.com)**
@@ -76,8 +76,8 @@ Curious and constantly evolving, I explore the latest technologies to build mode
 
 | Project | Description | Technologies |
 |:-------|:-------------|:-------------|
-| **Quality Management - Qualisoft** | Web application to track and validate quality processes | Angular · Node.js · Express · PostgreSql |
 | **Delivery Food - Kaly-livrer** | Food delivery app for managing restaurants, menus, and online orders | Nest.js · React · React Native · PostgreSql|
+| **Quality Management - Qualisoft** | Web application to track and validate quality processes | Angular · Node.js · Express · PostgreSql |
 
 ---
 
