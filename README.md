@@ -88,9 +88,9 @@ Curious and constantly evolving, I explore the latest technologies to build mode
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathieu-Safidy&theme=vue" height="160" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathieu-Safidy&theme=vue" />
-</p>
+</p> -->
 
 ---
 
