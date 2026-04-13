@@ -84,8 +84,12 @@ Curious and constantly evolving, I explore the latest technologies to build mode
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mathieu-Safidy&show_icons=true&theme=vue-dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Mathieu-Safidy&layout=compact&theme=vue-dark&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mathieu-Safidy&theme=vue" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mathieu-Safidy&theme=vue" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathieu-Safidy&theme=vue" />
 </p>
 
 ---
