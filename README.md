@@ -103,5 +103,6 @@ Curious and constantly evolving, I explore the latest technologies to build mode
 </p>
 
 ---
-
+<p align="center">
 ⭐ *"Code is not just a set of instructions, it's a way of thinking."*
+</p>
